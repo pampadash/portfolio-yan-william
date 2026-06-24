@@ -16,7 +16,8 @@ Portfólio pessoal desenvolvido com **Vite + TypeScript**, focado em apresentar 
 
 ## 📸 Preview
 
-> (adicione aqui um print do projeto depois)
+https://portfolio-yan-william.vercel.app/
+<img width="1025" height="768" alt="image" src="https://github.com/user-attachments/assets/96414a21-4841-4ff6-b70f-caa1f790b735" />
 
 ---
 
