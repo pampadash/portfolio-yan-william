@@ -1,11 +1,35 @@
+# Portfolio - Yan William
 
-  # Portfólio Profissional Yan William - Pampadash
+Portfólio pessoal desenvolvido com **Vite + TypeScript**, focado em apresentar projetos, habilidades e experiências como desenvolvedor.
 
-  This is a code bundle for Portfólio Profissional Yan William - Pampadash. The original project is available at https://www.figma.com/design/RE3iIvHiMAKsf13TQXg6mN/Portf%C3%B3lio-Profissional-Yan-William---Pampadash.
+---
 
-  ## Running the code
+## 🚀 Tecnologias
 
-  Run `npm i` to install the dependencies.
+- HTML5
+- CSS3
+- TypeScript
+- Vite
+- JavaScript (ES6+)
 
-  Run `npm run dev` to start the development server.
-  
+---
+
+## 📸 Preview
+
+> (adicione aqui um print do projeto depois)
+
+---
+
+## 📂 Estrutura
+
+- `src/` → código principal do projeto
+- `public/` → arquivos estáticos
+- `index.html` → entrada do site
+
+---
+
+## 💻 Como rodar localmente
+
+```bash
+npm install
+npm run dev
